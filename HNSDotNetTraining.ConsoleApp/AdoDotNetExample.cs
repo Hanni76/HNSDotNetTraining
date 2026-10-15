@@ -221,6 +221,7 @@ namespace HNSDotNetTraining.ConsoleApp
 
                 string message = result == 1 ? "Delete successful." : "Delete failed.";
                 Console.WriteLine(message);
+                return;
             }
 
             
