@@ -17,7 +17,13 @@ DapperExample dapperExample = new DapperExample();
 //dapperExample.Read();
 //dapperExample.Create("hhh","hh","heiehiebg");
 //dapperExample.Edit(6);
-dapperExample.Delete(6);
+//dapperExample.Delete(6);
+
+EFCoreExample ef = new EFCoreExample();
+//ef.Create("Test","sss","Testing");
+//ef.Read();
+ef.Edit(7);
+//ef.Update(7,"Update1","snhh","Updating...");
 
 
 
