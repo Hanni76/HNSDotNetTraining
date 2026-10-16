@@ -10,3 +10,4 @@ ASP.NET Core MVC
 Blazor Web Assembly
 Blazor Web Server
 
+test
